@@ -1,4 +1,3 @@
-import React from 'react'
 import { useSelector } from 'react-redux'
 import { IState } from '../store'
 import { ICartItem } from '../store/modules/cart/types'
